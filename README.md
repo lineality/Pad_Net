@@ -9,13 +9,14 @@ The goal is for every 'user' profile to have a separate (account of) one-time pa
 
 A. You cannot simply 'gain access'
 B. You cannot 'decrypt' traffic
-C. 
 
 
-Note: 
-block of chunk of packet size has various issues:
-- efficiency
-- security of 'meta-data'
-- 
 
-Possibly a way to audit network traffic in by 'user.'
+#### block of chunk of packet size has various issues:
+- efficiency (larger chunk is less efficient)
+- security of 'meta-data' (smaller chunk is less opaque)
+
+
+Possibly a way to audit network traffic by 'user.'
+
+
