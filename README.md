@@ -20,3 +20,7 @@ B. You cannot 'decrypt' traffic
 Possibly a way to audit network traffic by 'user.'
 
 Maybe a 'layer' in the router on top of TCPIP?
+
+iot?
+
+resource thin pad net?
