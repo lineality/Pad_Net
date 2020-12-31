@@ -24,3 +24,7 @@ Maybe a 'layer' in the router on top of TCPIP?
 iot?
 
 resource thin pad net?
+
+...
+
+hashed continuity chains from whitelist?
