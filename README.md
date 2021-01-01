@@ -19,7 +19,11 @@ B. You cannot 'decrypt' traffic
 
 Possibly a way to audit network traffic by 'user.'
 
-Maybe a 'layer' in the router on top of TCPIP?
+#### "Layers"
+'where' the protocol sits:
+- in local 'router' on top of normal TCPIP
+- custom packet protocol
+- AWS sidewalk 'onion' type system
 
 iot?
 
