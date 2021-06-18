@@ -3,12 +3,21 @@
 
 ## Outline:
 
-This will be more memory-use intensive.
+This will be more memory-use, or memory storage, intensive.
 
 The goal is for every 'user' profile to have a separate (account of) one-time pads.
 
+AAA batteries
+
 A. You cannot simply 'gain access'
 B. You cannot 'decrypt' traffic
+
+A Padnet would be a kind a white-list network in the sense that devices on the network are not automatically 'open' to anything on 'the internet.'
+
+adding a layer to the standard, time tested, TCPIP protocol
+
+1. network traffic must have a network pad
+2. the recipient must have a peer-pad
 
 
 
@@ -19,16 +28,8 @@ B. You cannot 'decrypt' traffic
 
 Possibly a way to audit network traffic by 'user.'
 
-#### "Layers"
-'where' the protocol sits:
-- in local 'router' on top of normal TCPIP
-- custom packet protocol
-- AWS sidewalk 'onion' type system
+Maybe a 'layer' in the router on top of TCPIP?
 
 iot?
 
 resource thin pad net?
-
-...
-
-hashed continuity chains from whitelist?
