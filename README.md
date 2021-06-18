@@ -16,7 +16,7 @@ A Padnet would be a kind a white-list network in the sense that devices on the n
 
 adding a layer to the standard, time tested, TCPIP protocol
 
-1. network traffic must have a network pad
+1. (optional?) network traffic must have a network pad
 2. the recipient must have a peer-pad
 
 
@@ -33,3 +33,8 @@ Maybe a 'layer' in the router on top of TCPIP?
 iot?
 
 resource thin pad net?
+
+
+Pure vs. Practical
+In the pure version of padnet, each device has a pre-exchanged set of one time pads. 
+But in a more pragmatic version, there may be some (though less secure way) of having synchronized key generation between devices on the network. 
